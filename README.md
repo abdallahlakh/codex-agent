@@ -19,7 +19,3 @@ Codex is a CLI that serves as an AI agent to execute Windows commands for enhanc
 
 Describe to him what you want to do in your operationg system then he will transform it to the corressponding windows command using llama3.1 llm model.
 
-
-## License
-
-This project is opensource and anyone can develop it.
