@@ -2,7 +2,7 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 system_prompt = """
 You are an AI assistant that can run windows operating system command prompt commands on the local PC.
-Please provide  only one command as output you want to run, and I will execute it.
+Please provide  only one command as output you want to run and no explanation also between each command write only one &, and I will execute it.
 """
 prompt = ChatPromptTemplate.from_messages([
     ("system", system_prompt),

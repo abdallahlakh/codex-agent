@@ -7,4 +7,3 @@ agent = create_openai_tools_agent(llm, [command_tool], prompt)
 
 # Create an AgentExecutor to manage the agent
 executor = AgentExecutor(agent=agent, tools=[command_tool])
-print("Agent created successfully",executor)
