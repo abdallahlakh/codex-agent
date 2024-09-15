@@ -22,9 +22,7 @@ Describe to him what you want to do in your operationg system then he will trans
 
 
 
-# AI-Agent Command Executor
-
-## Importance of the Project
+## Why you should use this agent?
 
 ### 1. User Convenience and Efficiency
 - **Simplified Command Execution**: Users can describe what they want to do in natural language, and the AI agent translates that into the appropriate command.
