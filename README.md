@@ -1,5 +1,5 @@
 # Command Executer AI Agent for windows 
-![Logo](logo.png)
+![Logo](workfllow.jpeg)
 
 
 Codex is a CLI that serves as an AI agent to execute Windows commands for enhancing security and privacy of the operating system data. It interacts with the Ollama Llama 3.1 model and langchain to provide efficient command execution without the need for internet connectivity, saving valuable time and security.
