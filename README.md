@@ -60,4 +60,5 @@ Describe to him what you want to do in your operationg system then he will trans
 
 ## Conclusion
 This project leverages the power of language models to bridge the gap between natural language and command-line interfaces, making powerful tools more accessible and easier to use. It enhances productivity, reduces errors, and opens up new possibilities for automation and integration, making it a valuable tool for a wide range of users and applications.
+![Logo](logo.png)
 
